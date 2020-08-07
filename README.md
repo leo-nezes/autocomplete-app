@@ -1,5 +1,3 @@
-# Descrição
-
 <h1 align="center">
   Autocomplete App
 </h1>
